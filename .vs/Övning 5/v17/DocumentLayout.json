@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|c:\\users\\administrat\u00F6r\\source\\repos\\\u00F6vning 5\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|solutionrelative:boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|c:\\users\\administrat\u00F6r\\source\\repos\\\u00F6vning 5\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|solutionrelative:bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|c:\\users\\administrat\u00F6r\\source\\repos\\\u00F6vning 5\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989E747-1A67-410F-9693-CF351A1D7E0C}|\u00D6vning 5.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +43,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Boat.cs",
+              "RelativeDocumentMoniker": "Boat.cs",
+              "ToolTip": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Boat.cs",
+              "RelativeToolTip": "Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:32:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Bus.cs",
+              "RelativeDocumentMoniker": "Bus.cs",
+              "ToolTip": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Bus.cs",
+              "RelativeToolTip": "Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:32:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Administrat\u00F6r\\source\\repos\\\u00D6vning 5\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:31:35.695Z"
             }
           ]
         }
