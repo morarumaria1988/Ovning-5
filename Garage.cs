@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Övning_5
 {
-    internal class Garage<T> : IEnumerable<T> where T : IVehicle
+    internal class Garage<T> : IEnumerable<T> where T : Vehicle
     {
         private T[] vehicles;
 

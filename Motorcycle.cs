@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Övning_5
 {
-    internal class Motorcycle
+    internal class Motorcycle : Vehicle
     {
     }
 }

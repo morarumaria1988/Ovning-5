@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Övning_5
 {
-    internal interface IVehicle
+    internal class Vehicle
     {
+        string RegistrationNumber { get; }
+        string Color { get; }
+        int NumberOfWheels { get; }
+
     }
 }

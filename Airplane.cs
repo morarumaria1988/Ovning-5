@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Övning_5
 {
-    internal class Airplane : IVehicle
+    internal class Airplane : Vehicle
     {
+
     }
 }
