@@ -8,6 +8,11 @@ namespace Övning_5
 {
     internal class Airplane : Vehicle
     {
-
+        int NumberOfEngines { get; set; }
+        public Airplane() { }
+        public Airplane(string registrationNumber, string color, int numberOfWheels, int numberOfEngines)
+        {
+            NumberOfEngines = numberOfEngines;
+        }
     }
 }

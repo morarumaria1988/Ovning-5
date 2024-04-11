@@ -8,5 +8,11 @@ namespace Övning_5
 {
     internal class Bus : Vehicle
     {
+        public Bus() { }
+        int NumberOfSeats { get; set; }
+        public Bus(string registrationNumber, string color, int numberOfWheels, int numberOfSeats)
+        {
+            NumberOfSeats = numberOfSeats;
+        }
     }
 }
