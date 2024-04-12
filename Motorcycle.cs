@@ -8,9 +8,9 @@ namespace Övning_5
 {
     internal class Motorcycle : Vehicle
     {
-        int CylinderVolume { get; set; }
+        double CylinderVolume { get; set; }
         public Motorcycle() { }
-        public Motorcycle(string registrationNumber, string color, int numberOfWheels, int cylinderVolume)
+        public Motorcycle(string registrationNumber, string color, int numberOfWheels, double cylinderVolume)
         {
             CylinderVolume = cylinderVolume;
         }
